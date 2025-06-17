@@ -37,7 +37,7 @@ Developed an interactive and insightful Power BI dashboard
 
 Focused on usability, performance, and business KPIs
 
-Dashboard:
+Dashboard:-
 
 
 ![image](https://github.com/user-attachments/assets/0e83d7ed-4282-4bbf-ae7b-638f6c6737bf)
